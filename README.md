@@ -10,7 +10,7 @@ Install some dependencies.
 npm install
 ```
 
-Run project.
+Run Svelte Project.
 
 ```bash
 npm run dev
